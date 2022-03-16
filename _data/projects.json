@@ -1,15 +1,15 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
-        "description": "My Description 01",
-        "link": "#"
+        "image": "assets/img/projects/project1(crolling namuwiki).png",
+        "title": "웹스크래핑1",
+        "description": "S22 나무위키 스크래핑/한글 분석",
+        "link": "https://colab.research.google.com/drive/1bDqbL87kF3lMCMQpDi13VidLBPdUwg0X?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
-        "description": "My Description 02",
-        "link": "#"
+        "image": "assets/img/projects/project2(crolling ITworld).png",
+        "title": "웹스크래핑2",
+        "description": "ITworld 모바일뉴스 스크래핑/한글 분석",
+        "link": "https://colab.research.google.com/drive/1Tpth-svC6FTP1SaRo5iiI-YN2tD7akk1?usp=sharing"
     },
     {
         "image": "assets/img/projects/project3.jpg",
