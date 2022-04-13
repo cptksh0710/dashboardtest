@@ -1,5 +1,11 @@
 [
     {
+        "image": "assets/img/projects/python project(진수변환).png",
+        "title": "진수변환 프로그램",
+        "description": "2021년 12월 17일 python프로젝트",
+        "link": "assets/project/진수변환프로그램.pptx"
+    },
+    {
         "image": "assets/img/projects/project1(crolling namuwiki).png",
         "title": "웹스크래핑1",
         "description": "S22 나무위키 스크래핑/한글 분석",
@@ -16,11 +22,5 @@
         "title": "Deeplearning project",
         "description": "MoveNet: 포즈 추정",
         "link": "https://drive.google.com/file/d/1TWR9KUQhv_zCVXdKyEy2uDOJp5QIKjvD/view?usp=sharing"
-    },
-    {
-        "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
-        "description": "My Description 04",
-        "link": "#"
     }
 ]
